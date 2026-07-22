@@ -2,7 +2,7 @@
 
 # Hi there, I'm Jeffrey Lucban 👋
 
-### Backend Developer | 8+ Years Turning Complex Requirements Into Reliable, Scalable Products
+### Backend Developer | Turning Complex Requirements Into Reliable, Scalable Products
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-lucban/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jeplucban.vercel.app/)
