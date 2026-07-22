@@ -36,15 +36,8 @@
 
 **Backend**
 
-![PHP](https://skillicons.dev/icons?i=php)
-![Python](https://skillicons.dev/icons?i=python)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![Express](https://skillicons.dev/icons?i=express)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
+[![Backend](https://skillicons.dev/icons?i=php,nodejs,python,laravel,express,mysql,postgres,mongodb,redis&perline=5)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
 <img src="https://img.shields.io/badge/Sails.js-14A2B8?style=flat-square&logo=sailsdotjs&logoColor=white" alt="Sails.js"/>
 <img src="https://img.shields.io/badge/Adonis.js-220052?style=flat-square&logo=adonisjs&logoColor=white" alt="Adonis.js"/>
@@ -52,14 +45,11 @@
 
 **Game Development**
 
-![C#](https://skillicons.dev/icons?i=cs)
-![Unity](https://skillicons.dev/icons?i=unity)
-![Unreal Engine](https://skillicons.dev/icons?i=unrealengine)
+[![Game Development](https://skillicons.dev/icons?i=cs,unity,unrealengine&perline=3)](https://skillicons.dev)
 
 **Tools**
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker&perline=3)](https://skillicons.dev)
 
 ---
 
