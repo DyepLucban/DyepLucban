@@ -55,10 +55,6 @@
 
 ## 📊 GitHub Stats
 <div>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=DyepLucban&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Jeffrey's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyepLucban&layout=compact&theme=radical" alt="Top Languages" height="165"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DyepLucban&theme=radical" alt="GitHub Streak"/>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=DyepLucban&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/> -->
 </div>
 
-> 💡 Repo count, total commits, streak, and top languages above update automatically — no manual editing needed.
