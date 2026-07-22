@@ -8,6 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jeplucban.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucbanjep@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DyepLucban)
+[![Itch.io](https://img.shields.io/badge/Itch.io-100000?style=for-the-badge&logo=itchio&logoColor=white)](https://globoyfury.itch.io/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DyepLucban&color=blue&style=for-the-badge)
 
