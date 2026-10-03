@@ -36,13 +36,13 @@ I'm a **backend developer** who enjoys taking messy, complex requirements and sh
   <tr>
     <td width="160"><b>🌐 Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue" alt="Frontend"/>
+      <img height="36" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue" alt="Frontend"/>
     </td>
   </tr>
   <tr>
     <td><b>⚙️ Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" alt="Backend"/>
+      <img height="36" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" alt="Backend"/>
       <br/>
       <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
       <img src="https://img.shields.io/badge/Sails.js-14A2B8?style=flat-square&logo=sailsdotjs&logoColor=white" alt="Sails.js"/>
@@ -53,19 +53,34 @@ I'm a **backend developer** who enjoys taking messy, complex requirements and sh
   <tr>
     <td><b>🗄️ Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases"/>
+      <img height="36" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/LLM-6D28D9?style=flat-square" alt="LLM"/>
+      <img src="https://img.shields.io/badge/RAG_Pipeline-0EA5E9?style=flat-square" alt="RAG Pipeline"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith"/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+      <img src="https://img.shields.io/badge/Agent_Harness-F59E0B?style=flat-square" alt="Agent Harness"/>
+      <img src="https://img.shields.io/badge/AI_Agent-10B981?style=flat-square" alt="AI Agent"/>
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
     </td>
   </tr>
   <tr>
     <td><b>🎮 Game Dev</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=cs,unity,unrealengine" alt="Game Development"/>
+      <img height="36" src="https://skillicons.dev/icons?i=cs,unity,unrealengine" alt="Game Development"/>
     </td>
   </tr>
   <tr>
     <td><b>🛠️ Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Tools"/>
+      <img height="36" src="https://skillicons.dev/icons?i=git,github,docker" alt="Tools"/>
     </td>
   </tr>
 </table>
